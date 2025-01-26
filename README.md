@@ -25,7 +25,7 @@ That's why I like to make things that make a difference.
   - GraphQL and Docker.
   - Microservices Architecture.
 - 📬 How to reach me: [abdullamajdy493@gmail.com](mailto:abdullamajdy493@gmail.com)
-- 📝 [Resume]([https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing](https://drive.google.com/file/d/1QJxUFnnV9TOYahoagWpw1WNqNkrLUZIs/view?usp=drive_link)).
+- 📝 [Resume](https://drive.google.com/file/d/1QJxUFnnV9TOYahoagWpw1WNqNkrLUZIs/view?usp=drive_link).
 
 ---
 
@@ -35,7 +35,7 @@ That's why I like to make things that make a difference.
 
 <p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="#"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c#-in-hexagon&logoColor=white"></a>
+    <a href="#"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -50,7 +50,8 @@ That's why I like to make things that make a difference.
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt=".NET" src="https://img.shields.io/badge/-.NET%208.0-blueviolet"></a>
-    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/React-20232a.svg?logo=angular&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
+    <a href="#"><img alt="RXJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -69,7 +70,7 @@ That's why I like to make things that make a difference.
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
 </p>
 
 ---
