@@ -14,7 +14,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, and my u
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRnNjllaGJzYmZyNDI5Y2ZkMHlpaTN1Njg0cWw3MzN0dHpma3M4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="408" height="318" />
 
 
 ### Talking about Personal Stuff:
@@ -35,7 +35,7 @@ That's why I like to make things that make a difference.
 
 <p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="#"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
+    <a href="#"><img alt="C#" src="https://img.shields.io/badge/-C%23-blue?logo=csharp&label="></a>
     <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -50,8 +50,14 @@ That's why I like to make things that make a difference.
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt=".NET" src="https://img.shields.io/badge/-.NET%208.0-blueviolet"></a>
-    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
-    <a href="#"><img alt="RXJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white"></a>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/-Angular-red?logo=angular&label="></a>
+    <a href="#"><img alt="RXJS" src="https://img.shields.io/badge/-RxJS-B7178C?logo=reactivex&label="></a>
+    <a href="#"><img alt="Asp.Net" src="https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?logo=dotnet&label="></a>
+    <a href="#"><img alt="SignalR" src="https://img.shields.io/badge/-SignalR-blue?logo=dotnet&label="></a>
+    <a href="#"><img alt="Asp.Net" src="https://img.shields.io/badge/-Entity%20Framework-DC382D?logo=dotnet&label="></a>
+    <a href="#"><img alt="Linq" src="https://img.shields.io/badge/-LinQ-07405E?logo=dotnet&label="></a>
+    
+    
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -60,6 +66,8 @@ That's why I like to make things that make a difference.
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="SQLServer" src ="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927"></a>
+    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/-Redis-000000?logo=redis&label="></a>
+    <a href="#"><img alt="Dapper" src="https://img.shields.io/badge/-Dapper-07405E?logo=nuget&label="></a>
 </p>
 
 ### 💻 Software and tools
@@ -70,7 +78,7 @@ That's why I like to make things that make a difference.
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&label="></a>
 </p>
 
 ---
