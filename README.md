@@ -25,7 +25,7 @@ That's why I like to make things that make a difference.
   - GraphQL and Docker.
   - Microservices Architecture.
 - 📬 How to reach me: [abdullamajdy493@gmail.com](mailto:abdullamajdy493@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/114EKTDG801wFLyBSFAnjwaSA8ugEyvB4/view?usp=drive_link).
+- 📝 [Resume](https://drive.google.com/file/d/1wSVYjujtjPH9ornz_XWpA790e7iY8h7l/view?usp=drive_link).
 
 ---
 
