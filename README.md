@@ -25,7 +25,7 @@ That's why I like to make things that make a difference.
   - GraphQL and Docker.
   - Microservices Architecture.
 - 📬 How to reach me: [abdullamajdy493@gmail.com](mailto:abdullamajdy493@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1wSVYjujtjPH9ornz_XWpA790e7iY8h7l/view?usp=drive_link).
+- 📝 [Resume](https://drive.google.com/file/d/1YxE9j9oIzAaMpLzwtV09RKgyWSXieqCj/view?usp=drive_link).
 
 ---
 
@@ -36,23 +36,24 @@ That's why I like to make things that make a difference.
 <p>
     <a href="#"><img alt="C#" src="https://img.shields.io/badge/-C%23-blue?logo=csharp&label="></a>
     <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
 
 <p>
+    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/-.NET%20-blueviolet"></a>
+    <a href="#"><img alt="Asp.Net" src="https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?logo=dotnet&label="></a>
+    <a href="#"><img alt="Asp.Net" src="https://img.shields.io/badge/-Entity%20Framework-DC382D?logo=dotnet&label="></a>
+    <a href="#"><img alt="SignalR" src="https://img.shields.io/badge/-SignalR-blue?logo=dotnet&label="></a>
+    <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-8A2BE2"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-8A2B00"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/-.NET%208.0-blueviolet"></a>
+    <a href="#"><img alt="JQuery" src="https://img.shields.io/badge/JQuery-CCC"></a>
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/-Angular-red?logo=angular&label="></a>
     <a href="#"><img alt="RXJS" src="https://img.shields.io/badge/-RxJS-B7178C?logo=reactivex&label="></a>
-    <a href="#"><img alt="Asp.Net" src="https://img.shields.io/badge/-ASP.NET%20Core-5C2D91?logo=dotnet&label="></a>
-    <a href="#"><img alt="SignalR" src="https://img.shields.io/badge/-SignalR-blue?logo=dotnet&label="></a>
-    <a href="#"><img alt="Asp.Net" src="https://img.shields.io/badge/-Entity%20Framework-DC382D?logo=dotnet&label="></a>
+    <a href="#"><img alt="NGRX" src="https://img.shields.io/badge/NGRX-8A2BE2"></a>
     <a href="#"><img alt="Linq" src="https://img.shields.io/badge/-LinQ-07405E?logo=dotnet&label="></a>
     
     
@@ -61,11 +62,13 @@ That's why I like to make things that make a difference.
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
+    <a href="#"><img alt="SQLServer" src ="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="SQLServer" src ="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927"></a>
+    <a href="#"><img alt="postgresql" src="https://img.shields.io/badge/postgresql-ddd"></a>
     <a href="#"><img alt="Redis" src="https://img.shields.io/badge/-Redis-000000?logo=redis&label="></a>
     <a href="#"><img alt="Dapper" src="https://img.shields.io/badge/-Dapper-07405E?logo=nuget&label="></a>
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-8A2BE2"></a>
 </p>
 
 ### 💻 Software and tools
